@@ -1,0 +1,8 @@
+ID,Nombre,Edad,Curso,Calificacion,acredita
+1,Ana López,22.0,Matemáticas,85,si
+2,Carlos Ruiz,21.0,Física,78,si
+3,María García,23.0,Química,92,si
+4,Juan Pérez,20.0,Biología,88,si
+5,Laura Díaz,19.0,Historia,76,si
+6,Adrian Diaz,,Bioquímica,50,no
+6,Damian Alfaro,,Arquitectura,52,no
