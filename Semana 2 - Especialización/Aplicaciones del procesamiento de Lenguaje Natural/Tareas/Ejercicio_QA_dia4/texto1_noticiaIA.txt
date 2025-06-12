@@ -1,0 +1,29 @@
+¿Cómo se espera que la IA transforme las empresas este año?
+
+Por Mario Chao*
+
+A lo largo de la historia, pocas tecnologías han tenido la capacidad de alterar el terreno de juego tan profundamente como la inteligencia artificial (IA). Pero hoy, no se trata sólo de evolución tecnológica: se trata de supervivencia estratégica.
+
+En América Latina, la IA está dejando de ser un concepto técnico para convertirse en una herramienta de transformación transversal. Así lo revela el estudio “La Inteligencia Artificial en América Latina 2025”, por NTT DATA en colaboración con el MIT Technology Review en español. Ahora sabemos que más del 54.35% de las empresas ya utiliza IA (tradicional o generativa) con foco en eficiencia operativa, y que la adopción de IA generativa ha crecido de manera exponencial; alcanzando niveles de implementación inicial comparables a los de la IA tradicional. Esto no es una tendencia, es un cambio de paradigma.
+
+Muchas organizaciones ya han avanzado de la fase exploratoria a la implementación de pilotos concretos. Aun así, cerca de la mitad de las empresas todavía no cuenta con una visibilidad clara sobre sus niveles de inversión en inteligencia artificial generativa. Contar con una estrategia de inversión bien definida es un paso clave para maximizar el valor de estas tecnologías. Tener claridad sobre cuánto se invierte es también tener claridad sobre lo que se busca obtener a cambio. El reto no está en la tecnología, sino en fortalecer los modelos de gobernanza que la rodean.
+
+La inteligencia artificial (y en particular la IA generativa) está lista para dejar de ser un experimento aislado. Es momento de integrarla plenamente en la toma de decisiones estratégicas, con liderazgo activo y visión de largo plazo. Para lograrlo, es fundamental contar con un modelo operativo claro, liderazgo responsable, presupuesto asignado y métricas de impacto que permitan medir avances de forma objetiva y alineada con los objetivos del negocio.
+
+Asimismo, entre más madura es una organización en IA, más invierte en formación interna. De hecho, el 61.96% de las empresas con mayor experiencia ya capacita directamente a su personal. Esta evolución es crítica: los primeros pasos pueden ser guiados desde fuera, pero construir diferenciación real exige talento propio, arraigado en la cultura y el negocio.
+
+La contratación de especialistas no basta. Se requiere una estrategia transversal de desarrollo de capacidades, donde perfiles técnicos y de negocio hablen el mismo idioma y compartan los mismos objetivos. La IA es demasiado estratégica como para dejarla exclusivamente en manos del área de tecnología.
+
+De igual manera, no podemos hablar de adopción sin hablar de ética e infraestructura de datos. El estudio señala que el 38.04% de las organizaciones ya reconoce la importancia de las prácticas éticas, aunque muchas aún carecen de políticas formalizadas. Implementar IA sin un marco ético claro es abrir la puerta al riesgo reputacional y operativo. Pero usar la ética como pretexto para no avanzar es igual de peligroso. Se puede (y se debe) construir tecnología responsable mientras se ejecuta.
+
+Por otro lado, la IA generativa es tan buena como los datos con los que se alimenta. El 43.48% de las empresas identifica los datos como uno de los principales retos, tanto por calidad como por accesibilidad. Si los datos están atrapados en silos, sucios o desactualizados, cualquier modelo de IA será un castillo de naipes. Construir una infraestructura de datos sólida no es una opción técnica, es una decisión estratégica.
+
+Lo que comenzó como fascinación por las posibilidades de la IA generativa debe evolucionar hacia la captura concreta de valor. El 61.96% de las organizaciones ya visualiza un impacto alto en sus operaciones a partir de esta tecnología, según el informe.
+
+Y no solo se trata de eficiencia. Se trata de diferenciación. Crear nuevos productos, mejorar la experiencia del cliente, acelerar la innovación. La IA generativa ya está transformando el desarrollo de software, el marketing, la personalización masiva, y muy pronto, redefinirá funciones core como finanzas, logística y operaciones.
+
+Las empresas que liderarán los próximos años no serán las que “exploraron la IA”, sino las que se organizaron para escalar, midieron su impacto y la integraron al corazón de su negocio.
+
+Este es el momento de dar el siguiente paso: fortalecer tu modelo de gobernanza, identificar líderes con visión, apostar por el desarrollo de talento interno, organizar tus datos y comenzar a medir con claridad. Más que una estrategia exclusiva de IA, lo que realmente necesitas es una estrategia de negocio potenciada por inteligencia artificial, que impulse resultados concretos y sostenibles.
+
+Porque en esta revolución, el verdadero riesgo no está en avanzar. El verdadero riesgo está en quedarse quieto mientras el mercado se mueve.
