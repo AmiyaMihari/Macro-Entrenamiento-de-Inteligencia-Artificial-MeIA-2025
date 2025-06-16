@@ -1,0 +1,32 @@
+version: "3.1"
+nlu:
+- intent: saludo
+  examples: |
+    - hola
+    - buenos días
+    - qué tal
+    - hey
+
+- intent: horario
+  examples: |
+    - ¿cuál es el horario?
+    - a qué hora abren
+    - dime tu horario
+
+- intent: ubicacion
+  examples: |
+    - ¿Dónde están ubicados?
+    - ¿Cuál es su dirección?
+    - Dime dónde se encuentra la oficina
+
+- intent: servicios
+  examples: |
+    - ¿Qué servicios ofrecen?
+    - Háblame de lo que puedo contratar
+    - ¿Dan asesoría o capacitación?
+
+- intent: contacto
+  examples: |
+    - ¿Cómo puedo contactarlos?
+    - ¿Tienen correo o teléfono?
+    - Quiero comunicarme con ustedes

@@ -1,0 +1,15 @@
+recipe: default.v1
+language: es
+pipeline:
+- name: WhitespaceTokenizer
+- name: RegexFeaturizer
+- name: LexicalSyntacticFeaturizer
+- name: CountVectorsFeaturizer
+- name: DIETClassifier
+  epochs: 300
+- name: EntitySynonymMapper
+- name: ResponseSelector
+  epochs: 300
+policies:
+- name: RulePolicy
+assistant_id: 20250612-144458-rude-allegory

@@ -1,0 +1,26 @@
+version: "3.1"
+rules:
+- rule: Responder saludo
+  steps:
+    - intent: saludo
+    - action: utter_saludo
+
+- rule: Responder horario
+  steps:
+    - intent: horario
+    - action: utter_horario
+
+- rule: Responder ubicación
+  steps:
+    - intent: ubicacion
+    - action: utter_ubicacion
+
+- rule: Responder servicios
+  steps:
+    - intent: servicios
+    - action: utter_servicios
+
+- rule: Responder contacto
+  steps:
+    - intent: contacto
+    - action: utter_contacto

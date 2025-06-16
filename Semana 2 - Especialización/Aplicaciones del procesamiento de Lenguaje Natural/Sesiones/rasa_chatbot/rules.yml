@@ -1,0 +1,11 @@
+version: "3.1"
+rules:
+- rule: Responder saludo
+  steps:
+    - intent: saludo
+    - action: utter_saludo
+
+- rule: Responder horario
+  steps:
+    - intent: horario
+    - action: utter_horario

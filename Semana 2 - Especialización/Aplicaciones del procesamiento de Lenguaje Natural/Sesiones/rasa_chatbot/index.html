@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Chatbot Rasa (local sin socket.io)</title>
+</head>
+<body>
+  <h1>Asistente Virtual</h1>
+  <div id="webchat"></div>
+
+  <script src="js/rasa-webchat.js"></script>
+  <script>
+    window.WebChat.default({
+      selector: "#webchat",
+      initPayload: "/saludo",
+      customData: {"language": "es"},
+      socketUrl: "http://localhost:5005",
+      title: "Asistente Virtual",
+      subtitle: "¿En qué puedo ayudarte?",
+      inputTextFieldHint: "Escribe tu mensaje...",
+      showFullScreenButton: true
+    });
+  </script>
+</body>
+</html>

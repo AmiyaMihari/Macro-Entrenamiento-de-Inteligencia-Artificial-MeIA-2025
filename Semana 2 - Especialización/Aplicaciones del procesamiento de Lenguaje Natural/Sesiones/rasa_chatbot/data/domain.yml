@@ -1,0 +1,32 @@
+version: "3.1"
+intents:
+  - saludo
+  - horario
+  - ubicacion
+  - servicios
+  - contacto
+
+responses:
+  utter_saludo:
+    - text: "¡Hola! ¿En qué puedo ayudarte hoy?"
+
+  utter_horario:
+    - text: "Nuestro horario de atención es de lunes a viernes, de 9 a.m. a 6 p.m."
+
+  utter_ubicacion:
+    - text: "Estamos ubicados en Av. Revolución 123, Ciudad de México. Cerca del Metro San Antonio."
+
+  utter_servicios:
+    - text: |
+        Ofrecemos los siguientes servicios:
+        - Asesoría personalizada en línea
+        - Capacitaciones presenciales y virtuales
+        - Diagnóstico de competencias
+        - Seguimiento técnico a proyectos
+
+  utter_contacto:
+    - text: |
+        Puedes contactarnos por los siguientes medios:
+        📧 Correo: contacto@ejemplo.org
+        ☎️ Teléfono: +52 55 1234 5678
+        💬 WhatsApp: https://wa.me/525512345678

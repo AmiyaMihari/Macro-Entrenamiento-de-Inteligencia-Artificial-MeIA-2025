@@ -1,0 +1,11 @@
+version: "3.1"
+stories:
+- story: saludo simple
+  steps:
+  - intent: saludo
+  - action: utter_saludo
+
+- story: horario simple
+  steps:
+  - intent: horario
+  - action: utter_horario

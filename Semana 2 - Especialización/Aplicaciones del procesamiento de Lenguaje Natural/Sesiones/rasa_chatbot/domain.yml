@@ -1,0 +1,14 @@
+version: "3.1"
+intents:
+  - saludo
+  - horario
+
+responses:
+  utter_saludo:
+    - text: "¡Hola! ¿En qué puedo ayudarte?"
+  utter_horario:
+    - text: "Nuestro horario de atención es de lunes a viernes, de 9 a.m. a 6 p.m."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
